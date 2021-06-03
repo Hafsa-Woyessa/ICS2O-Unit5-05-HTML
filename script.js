@@ -10,3 +10,8 @@ function square () {
 
 alert(number)
 } 
+
+// This line displays  a message
+alert('The computer displays an alert')
+
+alert('Click square to get a new result') // This line displays a  message
