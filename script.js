@@ -9,7 +9,7 @@ function square () {
   number = number * number
 
 alert(number)
-} 
+}
 
 // This line displays  a message
 alert('The computer displays an alert')
