@@ -8,7 +8,7 @@ function square () {
 
   number = number * number
 
-alert(number)
+  alert(number)
 }
 
 // This line displays  a message
